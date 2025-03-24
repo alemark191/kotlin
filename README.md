@@ -1,4 +1,4 @@
-# manual de kptlin
+# manual de kotlin
 ## estudiante
 ### alemark monge
 
