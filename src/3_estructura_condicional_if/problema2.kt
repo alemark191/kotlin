@@ -8,9 +8,5 @@ fun main(){
    println("ingrese un numero")
     val num: Int = readln().toInt()
 
-    if (num>9) {
-        println("$num es un numero de dos digitos")
-    } else
-        println("$num no es un numero de dos digitos"
 }
 

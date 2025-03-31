@@ -10,9 +10,10 @@ fun main() {
         val resta = valor1 - valor2
         print("la suma de los dos valores es: $suma")
         print("la resta de los dos valores es $resta")
-    } else
-    val producto = valor1 * valor2
-    val division = valor1 / valor2
-    print("el producto de los dos valores es: $producto")
-    print("la division de los dos valoes es: $division")
+    } else{
+        val producto = valor1 * valor2
+        val division = valor1 / valor2
+        print("el producto de los dos valores es: $producto")
+        print("la division de los dos valoes es: $division")
+    }
 }
